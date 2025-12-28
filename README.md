@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giray Aksu</h1>
-<h3 align="center">I am developing mobile applications with Swift technologies. Dynamic, innovative, capable of working efficiently within a team using Agile and Scrum methodologies, all rounder.</h3>
+<h3 align="center">I am developing applications with C# and Swift technologies. Dynamic, innovative, capable of working efficiently within a team using Agile and Scrum methodologies, full-stack developer experienced in both mobile and backend development.</h3>
 
 - 📫 How to reach me **girayaksu2@gmail.com**
 
